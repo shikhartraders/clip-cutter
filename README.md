@@ -1,2 +1,2 @@
 # clip-cutter
-Clip cutter is a video editing/cutting application 
+AI Clip Cutter / Viral Shorts App (Flutter UI)
